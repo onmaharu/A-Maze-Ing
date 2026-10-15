@@ -1,0 +1,21 @@
+[project]
+name = "mazegen"
+version = "1.0"
+description = "Generate and solve the maze"
+authors = [
+    {name = "brasolof, mramboan"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
+
+[dependency-groups]
+dev = [
+    "pyfiglet (==1.0.4)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

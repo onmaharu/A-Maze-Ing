@@ -1,0 +1,10 @@
+# Mandatory KEY,VALUE pairs
+HEIGHT=12
+WIDTH=12
+ENTRY=0,0
+EXIT=11,11
+PERFECT=True
+OUTPUT_FILE=output.txt
+
+# Optional KEY,VALUE pair (SEED)
+SEED
